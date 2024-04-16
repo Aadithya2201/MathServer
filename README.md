@@ -82,6 +82,7 @@ padding-top: 20px;
 <div class="edge" align="center">
 <div class="box">
 <h1>Surface Area Of A Right Cylinder</h1>
+<h2> Aadithya.R  212223240001</h2>
 <br>
 <br>
 <form method="POST">
@@ -148,10 +149,10 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (26).png>)
+![alt text](<Screenshot (32).png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot (27).png>)
+![alt text](<Screenshot (33).png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
